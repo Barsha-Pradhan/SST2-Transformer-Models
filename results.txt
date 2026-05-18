@@ -1,0 +1,4 @@
+TinyBERT: 0.82
+ALBERT: 0.864
+MobileBERT: 0.54
+DistilBERT: 0.854
